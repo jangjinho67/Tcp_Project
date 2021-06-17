@@ -22,6 +22,10 @@
 ## 회원가입 완료
 ![회원가입완료](https://user-images.githubusercontent.com/80368956/122339102-999c0c80-cf7b-11eb-91be-12dc2fe8ac98.PNG)
 
+## 회원가입 완료후 DB에 회원정보 INSERT
+![회원디비](https://user-images.githubusercontent.com/80368956/122339562-38286d80-cf7c-11eb-9cc5-94ce750b9739.PNG)
+
+
 ## 다중 클라이언트 접속
 ![채팅로그인](https://user-images.githubusercontent.com/80368956/122339151-ae78a000-cf7b-11eb-98f3-2a02b260ccf1.PNG)
 ![클라이언트채팅](https://user-images.githubusercontent.com/80368956/122339173-b3d5ea80-cf7b-11eb-854c-6bde8e09ca54.PNG)
